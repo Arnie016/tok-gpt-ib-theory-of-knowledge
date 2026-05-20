@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arnie016.github.io/tok-gpt-ib-theory-of-knowledge/sitemap.xml
